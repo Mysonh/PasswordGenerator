@@ -15,6 +15,10 @@
  
   ## Usage
   When on the website a generator will be present with a red button. When clicked,prompts will be displayed for your inputs and then your password will be generated.
+  
+  ## Project Status
+  Given the pace of the course, the  production of this project has come to a hold for the time being.
+  
   ## Link
   [Password Generator Webpage](https://mysonh.github.io/PasswordGenerator/)
   
