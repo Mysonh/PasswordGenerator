@@ -4,7 +4,7 @@
   - [Description](#Description)
   - [Visual](#Usage)
   - [Usage](#Test)
-  - [License](#License)
+  - [Link](#Link)
 
 
   ## Description
@@ -15,7 +15,7 @@
  
   ## Usage
   When on the website a generator will be present with a red button. When clicked,prompts will be displayed for your inputs and then your password will be generated.
-  ## License
-  N/A
+  ## Link
+  [Password Generator Webpage](https://mysonh.github.io/PasswordGenerator/)
   
  
